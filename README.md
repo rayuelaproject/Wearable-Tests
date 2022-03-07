@@ -28,7 +28,7 @@ The tests chosen for the analysis of the devices are set out below, with a brief
   </ul>
 </ul>
 
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 </div>
         
 
@@ -61,7 +61,7 @@ The generalised <b>operation process</b> for different models of wearables is ou
   <li>Disconnection.</li>
 </ul>
 
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 </div>        
 
@@ -82,7 +82,7 @@ Those applications that do not encrypt either the BLE connection or requests sen
 <br />
 <br />
 One last particularly relevant finding from the analysis is that most of the devices analysed make use of static MAC addresses. The MAC address of a BLE peripheral device is constantly advertised unencrypted when it is disconnected from its central controller, making it vulnerable to being tracked and identified by an attacker. 
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 </div>
         
 
